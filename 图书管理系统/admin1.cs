@@ -10,21 +10,22 @@ using System.Windows.Forms;
 
 namespace 图书管理系统
 {
-    public partial class Form1 : Form
+    public partial class admin1 : Form
     {
-        public Form1()
+        public admin1()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void admin1_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void 图书管理ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            admin2 admin = new admin2();
+            admin.ShowDialog();
         }
     }
 }

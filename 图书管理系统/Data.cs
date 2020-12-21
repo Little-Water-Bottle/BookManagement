@@ -8,6 +8,6 @@ namespace 图书管理系统
 {
     class Data
     {
-        public static string UID = "", NName = "";  //登陆用户的id和姓名
+        public static string UID = "", UName = "";  //登陆用户的id和姓名
     }
 }

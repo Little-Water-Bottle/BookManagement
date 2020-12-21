@@ -16,7 +16,8 @@ namespace 图书管理系统
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            
+            Application.Run(new login());   //指定从哪个窗体启动
         }
     }
 }

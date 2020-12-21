@@ -2,8 +2,15 @@ D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图�
 D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe
 D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\bin\Debug\图书管理系统.pdb
 D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csprojResolveAssemblyReference.cache
-D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Form1.resources
 D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Properties.Resources.resources
 D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csproj.GenerateResource.Cache
 D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.exe
 D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.pdb
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.admin1.resources
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.login.resources
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.user1.resources
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.admin2.resources
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.admin21.resources
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.admin22.resources
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.user2.resources
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\图书管理系统\图书管理系统\obj\Debug\图书管理系统.user3.resources

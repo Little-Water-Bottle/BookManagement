@@ -8,7 +8,7 @@ namespace 图书管理系统
         public SqlConnection connect()
         {
             //Data Souece=数据库地址 Initial Catalog=数据库名称  Integrated Security=不要用户名和密码是否能连接数据库 true 能 false 不能
-            string str = @"Data Souece=DESKTOP-96ITNFK;Initial Catalog=图书管理系统;Integrated Security=True";
+            string str = @"Data Source=DESKTOP-96ITNFK;Initial Catalog=图书管理系统;Integrated Security=True";
             sc = new SqlConnection(str);  //创建数据库链接对象
             sc.Open();  //打开数据库
             return sc;  //返回数据库链接对象
